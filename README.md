@@ -1,4 +1,3 @@
-## I am new to Github!
-Currently tinkering with the implementation of ML methods in practice. Reach out on LinkedIn!
+## I am new to Github
 
-Current penultimate year Maths & Stats Undergrad @ Uni. of Oxford
+Current final year Maths & Stats Undergrad @ Uni. of Oxford
